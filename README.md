@@ -1,4 +1,4 @@
-## Oiii eu sou o Caio Gabriel, criador de conteúdo de programação e tecnologia!
+## Oi, eu sou o Caio Gabriel, estudante de programação e tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
