@@ -40,10 +40,10 @@
 ![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=robot-framework&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117)&nbsp;
+<img src="https://github.com/cgb102000/cgb102000/blob/main/vscode.png?raw=true" alt="Visual Studio Code" width="100" height="30"/> Visual Studio Code&nbsp;
+<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">&nbsp;
+<img src="https://github.com/cgb102000/cgb102000/blob/main/windows.png?raw=true" alt="Windows" width="30" height="30"/> Windows&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
