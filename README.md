@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+<div align="center">
+  <img src="https://github.com/cgb102000/cgb102000/blob/main/Caio%20Gabriel.gif?raw=true" alt="Caio Gabriel GIF" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Caio+Gabriel;I'M+A+PROGRAMMING+AND+TECHNOLOGY+STUDENT;WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -56,5 +60,11 @@
 <br><p align="center"><b>Visitor Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{cgb102000}/count.svg" /></p> 
 <br></div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cgb102000/cgb102000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cgb102000/cgb102000/output/github-contribution-grid-snake-light.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cgb102000/cgb102000/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
