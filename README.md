@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://www.twitch.tv/cgb102000" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-ff0000?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"> <!-- Cor alterada aqui -->
   </a>
   <a href="https://discord.gg/eZzQaHHm" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0000ff?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
