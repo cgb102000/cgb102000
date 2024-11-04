@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Caio+Gabriel;Sou+um+estudante+de+programação+e+tecnologia;Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Caio+Gabriel;I'M+A+PROGRAMMING+AND+TECHNOLOGY+STUDENT;WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub do Caio Gabriel" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caio Gabriel's GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Gráfico de atividade do GitHub do Caio Gabriel](https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Caio Gabriel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cgb102000&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title_color=000000" />
@@ -31,29 +31,29 @@
   </a> 
 </div>
 
-### Principais habilidades:
+### Main Skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![IA](https://img.shields.io/badge/-IA-0D1117?style=for-the-badge&logo=robot-framework&labelColor=0D1117&textColor=0D1117)&nbsp;
+![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=robot-framework&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### Ferramentas:
+### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
-### Outros Conhecimentos:
+### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-### Estudando no momento:
+### Currently Studying:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![IA](https://img.shields.io/badge/-IA-0D1117?style=for-the-badge&logo=robot-framework&labelColor=0D1117&textColor=0D1117)&nbsp;
+![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=robot-framework&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="center"><b>Contador de Visitantes</b></p>  
+<br><p align="center"><b>Visitor Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{cgb102000}/count.svg" /></p> 
 <br></div>
 
