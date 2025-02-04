@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ff0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Caio+Gabriel;I'M+A+SUPPORT+ANALYST+AND+A+PROGRAMMING+STUDENT;WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Caio+Gabriel;I'M+A+DEVELOPER+AND+A+PROGRAMMING+STUDENT;WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github.com/cgb102000/cgb102000/blob/main/capa.gif?raw=true" alt="GIF" />
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://www.twitch.tv/cgb102000" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"> <!-- Cor alterada aqui -->
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.gg/eZzQaHHm" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0000ff?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
