@@ -67,7 +67,4 @@
 
 ---
 
-### 🪱 Commit Snake Animation
-![Snake animation](https://raw.githubusercontent.com/cgb102000/cgb102000/output/github-contribution-grid-snake.svg)
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
