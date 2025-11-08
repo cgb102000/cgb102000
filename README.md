@@ -44,6 +44,7 @@
 ### 🧠 Main Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=robot-framework)&nbsp;
+![n8n](https://img.shields.io/badge/-n8n-0D1117?style=for-the-badge&logo=n8n)&nbsp;
 
 ### ⚙️ Tools
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -62,15 +63,7 @@
 ### 📖 Currently Studying
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=robot-framework)&nbsp;
-
----
-
-<div align="center">
-  <p><b>Visitor Count</b></p>  
-  <p>
-    <img src="https://profile-counter.glitch.me/cgb102000/count.svg" alt="Visitor Count" />
-  </p> 
-</div>
+![n8n](https://img.shields.io/badge/-n8n-0D1117?style=for-the-badge&logo=n8n)&nbsp;
 
 ---
 
