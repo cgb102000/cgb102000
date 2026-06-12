@@ -22,7 +22,6 @@
 
 ☁️ Experience with AWS, Linux, Docker and Self-Hosted Infrastructure
 
-🎮 Creator of MU Artificial
 
 ---
 
