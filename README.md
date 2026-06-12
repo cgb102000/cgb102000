@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/cgb102000/cgb102000/blob/main/capa.gif?raw=true" alt="Banner" />
+  <img width="100%" src="https://github.com/cgb102000/cgb102000/blob/main/capa.gif?raw=true" />
 </div>
 
 ---
@@ -16,12 +16,13 @@
 
 💻 Full Stack Developer
 
-🤖 Specialist in AI Agents and Automation
+🤖 AI Agents & Automation Specialist
 
-⚙️ Building solutions with n8n, OpenAI, Chatwoot and Telegram
+⚙️ Building intelligent workflows with n8n, OpenAI, Chatwoot and Telegram
 
-☁️ Experience with AWS, Linux, Docker and Self-Hosted Infrastructure
+☁️ AWS, Docker, Linux and Self-Hosted Infrastructure
 
+📚 Passionate about automation, AI and scalable systems
 
 ---
 
@@ -30,6 +31,8 @@
 <img src="https://komarev.com/ghpvc/?username=cgb102000&color=red&style=for-the-badge"/>
 
 </div>
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -53,29 +56,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cgb102000&theme=dracula&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 AI Customer Service Platform
-Automation platform using OpenAI, n8n, Chatwoot and Telegram.
-
-### ⚙️ Business Automation Suite
-Automations integrating ERP, CRM, APIs and messaging platforms.
-
-### 🎮 MU Artificial
-Private MU Online server focused on custom systems and player experience.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -87,7 +67,7 @@ Private MU Online server focused on custom systems and player experience.
 ### Automation & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs" />
 </p>
 
 - OpenAI
@@ -95,8 +75,10 @@ Private MU Online server focused on custom systems and player experience.
 - Chatwoot
 - Telegram Bots
 - AI Agents
+- Workflow Automation
+- API Integrations
 
-### Infrastructure
+### Infrastructure & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,vscode" />
@@ -108,7 +90,7 @@ Private MU Online server focused on custom systems and player experience.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/caio-g-42626a134/">
+<a href="https://www.linkedin.com/in/caio-g-42626a134/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -116,15 +98,15 @@ Private MU Online server focused on custom systems and player experience.
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/caio.gabriel666.js/">
+<a href="https://www.instagram.com/caio.gabriel666.js/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.twitch.tv/cgb102000">
+<a href="https://www.twitch.tv/cgb102000" target="_blank">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
 
-<a href="https://discord.gg/eZzQaHHm">
+<a href="https://discord.gg/eZzQaHHm" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
@@ -134,7 +116,7 @@ Private MU Online server focused on custom systems and player experience.
 
 <div align="center">
 
-### ⚡ Building AI, Automations and Scalable Solutions
+### ⚡ Building AI, Automation and Scalable Solutions
 
 </div>
 
