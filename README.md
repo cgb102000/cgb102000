@@ -1,70 +1,142 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Caio+Gabriel;I'M+A+DEVELOPER;WELCOME!+:%29)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+CAIO+GABRIEL;FULL+STACK+DEVELOPER;AI+%26+AUTOMATION+SPECIALIST;WELCOME!)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
-  <img src="https://github.com/cgb102000/cgb102000/blob/main/capa.gif?raw=true" alt="GIF de capa animado" />
+  <img src="https://github.com/cgb102000/cgb102000/blob/main/capa.gif?raw=true" alt="Banner" />
 </div>
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
+## 🚀 About Me
+
+💻 Full Stack Developer
+
+🤖 Specialist in AI Agents and Automation
+
+⚙️ Building solutions with n8n, OpenAI, Chatwoot and Telegram
+
+☁️ Experience with AWS, Linux, Docker and Self-Hosted Infrastructure
+
+🎮 Creator of MU Artificial
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=cgb102000&color=red&style=for-the-badge"/>
+
 </div>
 
-[![Caio Gabriel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=0d1117&color=ff0000&line=ff0000&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cgb102000&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title_color=ff0000" />
+<div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" />
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cgb102000&theme=dracula&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Customer Service Platform
+Automation platform using OpenAI, n8n, Chatwoot and Telegram.
+
+### ⚙️ Business Automation Suite
+Automations integrating ERP, CRM, APIs and messaging platforms.
+
+### 🎮 MU Artificial
+Private MU Online server focused on custom systems and player experience.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,mysql" />
+</p>
+
+### Automation & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+- OpenAI
+- n8n
+- Chatwoot
+- Telegram Bots
+- AI Agents
+
+### Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,vscode" />
 </p>
 
 ---
 
-<div align="center">  
-  <a href="https://www.instagram.com/caio.gabriel666.js/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.twitch.tv/cgb102000" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  <a href="https://discord.gg/eZzQaHHm" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
-  </a> 
-  <a href="mailto:caiogabriel10@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/caio-g-42626a134/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/caio-g-42626a134/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:caiogabriel10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/caio.gabriel666.js/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.twitch.tv/cgb102000">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/eZzQaHHm">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-### 🧠 Main Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=robot-framework)&nbsp;
-![n8n](https://img.shields.io/badge/-n8n-0D1117?style=for-the-badge&logo=n8n)&nbsp;
+<div align="center">
 
-### ⚙️ Tools
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+### ⚡ Building AI, Automations and Scalable Solutions
 
-### 📚 Other Knowledge
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
-
-### 📖 Currently Studying
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=robot-framework)&nbsp;
-![n8n](https://img.shields.io/badge/-n8n-0D1117?style=for-the-badge&logo=n8n)&nbsp;
-
----
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
