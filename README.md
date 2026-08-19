@@ -38,9 +38,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Gráfico de contribuições"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=ffffff&color=cc0000&line=cc0000&point=333333&area=true&hide_border=true" alt="Gráfico de contribuições" />
+</picture>
 
-<img width="100%" src="https://raw.githubusercontent.com/cgb102000/cgb102000/output/github-contribution-grid-snake.svg" alt="Animação do histórico de contribuições" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cgb102000/cgb102000/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/cgb102000/cgb102000/output/github-contribution-grid-snake.svg" alt="Animação do histórico de contribuições" />
+</picture>
 
 </div>
 
