@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="./capa.gif" alt="Capa do perfil de Caio Gabriel" />
+  <img width="100%" src="./Capa.gif" alt="Capa do perfil de Caio Gabriel" />
 </div>
 
 ---
