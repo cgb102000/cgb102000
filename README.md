@@ -106,7 +106,7 @@
 ### Frameworks & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,bootstrap,fastapi,flask" alt="React, Vue, Node.js, Express, Bootstrap, FastAPI e Flask" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,bootstrap,flask" alt="React, Vue, Node.js, Express, Bootstrap e Flask" />
 </p>
 
 <p>
