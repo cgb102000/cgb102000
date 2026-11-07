@@ -57,11 +57,6 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=ffffff&color=cc0000&line=cc0000&point=333333&area=true&hide_border=true" alt="Gráfico de contribuições" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cgb102000/cgb102000/output/github-contribution-grid-snake-dark.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/cgb102000/cgb102000/output/github-contribution-grid-snake.svg" alt="Animação do histórico de contribuições" />
 </picture>
@@ -90,6 +85,13 @@
   <img src="https://skillicons.dev/icons?i=postman,visualstudio,git,github" alt="Postman, Visual Studio, Git e GitHub" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/-Robot%20Framework-0D1117?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/-Playwright-0D1117?style=for-the-badge" alt="Playwright" />
+  <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+- Testes automatizados (Robot Framework + Playwright)
 - Testes funcionais e de regressão
 - Testes de API com Postman
 - Smoke tests
@@ -101,10 +103,27 @@
   <img src="https://skillicons.dev/icons?i=js,python,html,css,mysql" alt="JavaScript, Python, HTML, CSS e MySQL" />
 </p>
 
+### Frameworks & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,bootstrap,fastapi,flask" alt="React, Vue, Node.js, Express, Bootstrap, FastAPI e Flask" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,prisma" alt="MySQL, PostgreSQL, MongoDB, Firebase e Prisma" />
+</p>
+
 ### Automation & AI
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Python e Node.js" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/-Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white" alt="Chatwoot" />
+  <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </p>
 
 - OpenAI
@@ -118,7 +137,7 @@
 ### Infrastructure & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,vscode" alt="AWS, Docker, Linux, Git e VS Code" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,windows,git,vscode,vercel" alt="AWS, Docker, Linux, Windows, Git, VS Code e Vercel" />
 </p>
 
 ---
