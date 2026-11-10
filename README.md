@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+CAIO+GABRIEL;QA+ANALYST;FULL+STACK+DEVELOPER;AI+%26+AUTOMATION+SPECIALIST;WELCOME!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+CAIO+GABRIEL;QA+ANALYST;TEST+AUTOMATION;WELCOME!)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,19 +12,15 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-🧪 **QA Analyst**: testes funcionais, testes de API, regressão e reporte de bugs
+🧪 **Analista de QA** na Consumer: testes funcionais, de regressão, de API e mobile, com roteiro de testes e evidências por entrega no Azure DevOps
 
-💻 **Full Stack Developer**
+🔎 Investigação de erros em produção com logs no Kibana/Elastic
 
-🤖 **AI Agents & Automation Specialist**
+🤖 Automação de testes com **Robot Framework** e **Playwright**
 
-⚙️ Building intelligent workflows with n8n, OpenAI, Chatwoot and Telegram
-
-☁️ AWS, Docker, Linux and Self-Hosted Infrastructure
-
-📚 Passionate about quality, automation, AI and scalable systems
+💻 Base em desenvolvimento (JavaScript, Node.js, MongoDB) e automações com n8n e IA
 
 ---
 
@@ -35,20 +31,72 @@
 | **Testes funcionais** | Validação de regras de negócio, fluxos completos e cenários de borda |
 | **Testes de API** | Collections e environments no Postman, asserções de status, corpo e tempo de resposta |
 | **Regressão & Smoke** | Checagem a cada build para garantir que o que funcionava continua funcionando |
+| **Testes mobile** | Validação de apps Android com builds de teste e ambiente local |
 | **Bugs & Documentação** | Casos de teste, passos de reprodução e evidências claras para o time |
-| **Versionamento** | Branches, pull requests e revisão de alterações com Git |
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,visualstudio,git,github" alt="Postman, Visual Studio, Git e GitHub" />
-</p>
 
 ---
 
-<div align="center">
+## 📂 Projetos
 
-<img src="https://komarev.com/ghpvc/?username=cgb102000&color=red&style=for-the-badge" alt="Contador de visualizações do perfil"/>
+### 🧪 Qualidade e testes
 
-</div>
+| Projeto | Descrição | Links |
+|---|---|---|
+| **Teste automatizado MenuDino** | Testes E2E do fluxo de endereço por CEP, com cenários positivo e negativo, Page Object, screenshot em falha e CI no GitHub Actions. Robot Framework + Playwright. | [Repositório](https://github.com/cgb102000/teste-automatizado-menudino) |
+
+### 💻 Aplicações web
+
+| Projeto | Descrição | Links |
+|---|---|---|
+| **Faturô** | Sistema de gestão para pequenos negócios: caixa, mesas com QR Code, estoque, equipe com permissões, dashboard com DRE e dicas geradas por IA. React, Node.js, MongoDB. | 🌐 [Acessar](https://faturo-frontend.vercel.app/home) · Repositório privado |
+| **Ciclos** | App para acompanhar ciclos de medicamentos: calendário, doses, lembretes no Telegram e controle de estoque. PWA instalável. Node.js, PostgreSQL, Prisma. | Repositório privado |
+| **GeekCore** | Plataforma fullstack de filmes e animes: catálogo, login, perfis, favoritos e comentários. React, Node.js, MongoDB. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/GeekCore/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/GeekCore) |
+| **GeekHub** | Catálogo que consome a API REST do GeekCore: busca, filtros e detalhes. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/GeekHub/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/GeekHub) |
+| **FarmaUnix** | Farmácia online com carrinho, taxa de entrega por distância e mapa da rota (Leaflet). | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/FarmaUnix/src/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/FarmaUnix) |
+| **Pokédex** | Busca de Pokémon em tempo real com a PokéAPI. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Pokedex/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Pokedex) |
+| **Música para Todos** | Busca de músicas, artistas e álbuns com a Web API do Spotify. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Spotify/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Spotify) |
+
+### 🛠️ Ferramentas
+
+| Projeto | Descrição | Links |
+|---|---|---|
+| **Redimensionar Imagem** | Redimensiona várias imagens no navegador e converte para JPEG, PNG ou WebP. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Redimensionar%20Imagem/) |
+| **Audio to Text** | Transcrição de áudio com Whisper (OpenAI) rodando localmente. Python + Flask. | [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Audio%20to%20Text) |
+
+➡️ Todos os projetos: [**Projetos-publicos**](https://github.com/cgb102000/Projetos-publicos)
+
+---
+
+## 🛠️ Tech Stack
+
+### QA & Testing
+
+<p>
+  <img src="https://img.shields.io/badge/-Robot%20Framework-0D1117?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/-Playwright-0D1117?style=for-the-badge" alt="Playwright" />
+  <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/-Kibana-0D1117?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
+</p>
+
+### Linguagens e bancos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,react,mysql,postgres,mongodb" alt="JavaScript, Python, HTML, CSS, Node.js, React, MySQL, PostgreSQL e MongoDB" />
+</p>
+
+### Automação & IA
+
+<p>
+  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge" alt="OpenAI" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,linux,vercel" alt="Git, GitHub, VS Code, Visual Studio, Docker, Linux e Vercel" />
+</p>
 
 ---
 
@@ -65,84 +113,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- 🤖 [**Teste Automatizado MenuDino**](https://github.com/cgb102000/teste-automatizado-menudino) - Projeto dedicado a testes automatizados.
-- 📂 [**Projetos Públicos**](https://github.com/cgb102000/Projetos-publicos) - Coleção de projetos públicos.
-
-### Outros projetos
-
-- [Aprendendo Git](https://github.com/cgb102000/aprendendoGit)
-- [HTML e CSS](https://github.com/cgb102000/html-css)
-
----
-
-## 🛠️ Tech Stack
-
-### QA & Testing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,visualstudio,git,github" alt="Postman, Visual Studio, Git e GitHub" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Robot%20Framework-0D1117?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
-  <img src="https://img.shields.io/badge/-Playwright-0D1117?style=for-the-badge" alt="Playwright" />
-  <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-- Testes automatizados (Robot Framework + Playwright)
-- Testes funcionais e de regressão
-- Testes de API com Postman
-- Smoke tests
-- Casos de teste e reporte de bugs
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,mysql" alt="JavaScript, Python, HTML, CSS e MySQL" />
-</p>
-
-### Frameworks & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,bootstrap,flask" alt="React, Vue, Node.js, Express, Bootstrap e Flask" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,prisma" alt="MySQL, PostgreSQL, MongoDB, Firebase e Prisma" />
-</p>
-
-### Automation & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Python e Node.js" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/-Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white" alt="Chatwoot" />
-  <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</p>
-
-- OpenAI
-- n8n
-- Chatwoot
-- Telegram Bots
-- AI Agents
-- Workflow Automation
-- API Integrations
-
-### Infrastructure & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,windows,git,vscode,vercel" alt="AWS, Docker, Linux, Windows, Git, VS Code e Vercel" />
-</p>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Contato
 
 <div align="center">
 
@@ -154,25 +125,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 
-<a href="https://www.instagram.com/caio.gabriel666.js/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<br/><br/>
 
-<a href="https://www.twitch.tv/cgb102000" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-</a>
-
-<a href="https://discord.gg/eZzQaHHm" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Building Quality, AI, Automation and Scalable Solutions
+<img src="https://komarev.com/ghpvc/?username=cgb102000&color=red&style=for-the-badge" alt="Contador de visualizações do perfil"/>
 
 </div>
 
