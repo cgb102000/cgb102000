@@ -86,11 +86,26 @@
   <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,react,mysql,postgres,mongodb" alt="JavaScript, Python, HTML, CSS, Node.js, React, MySQL, PostgreSQL e MongoDB" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/-Firebird-F26722?style=for-the-badge" alt="Firebird" />
+</p>
+
 ### Automação & IA
 
 <p>
   <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+</p>
+
+**Modelos open source**
+
+<p>
+  <img src="https://img.shields.io/badge/-Qwen-615CED?style=for-the-badge&logo=qwen&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/-DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/-Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
 ### Ferramentas
