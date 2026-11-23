@@ -29,7 +29,7 @@
 | Área | Atividades |
 |---|---|
 | **Testes funcionais** | Validação de regras de negócio, fluxos completos e cenários de borda |
-| **Testes de API** | Collections e environments no Postman, asserções de status, corpo e tempo de resposta |
+| **Testes de API** | Collections e environments no Postman e no Bruno, asserções de status, corpo e tempo de resposta |
 | **Regressão & Smoke** | Checagem a cada build para garantir que o que funcionava continua funcionando |
 | **Testes mobile** | Validação de apps Android com builds de teste e ambiente local |
 | **Bugs & Documentação** | Casos de teste, passos de reprodução e evidências claras para o time |
@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/-Robot%20Framework-0D1117?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Bruno-0D1117?style=for-the-badge&logo=bruno&logoColor=white" alt="Bruno" />
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/-Kibana-0D1117?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
 </p>
