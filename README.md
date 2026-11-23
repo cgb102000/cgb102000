@@ -73,7 +73,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/-Robot%20Framework-0D1117?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
-  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="./icons/playwright-badge.svg" alt="Playwright" />
   <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-Bruno-0D1117?style=for-the-badge&logo=bruno&logoColor=white" alt="Bruno" />
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
