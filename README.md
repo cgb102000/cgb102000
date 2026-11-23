@@ -84,10 +84,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,react,mysql,postgres,mongodb" alt="JavaScript, Python, HTML, CSS, Node.js, React, MySQL, PostgreSQL e MongoDB" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Firebird-F26722?style=for-the-badge" alt="Firebird" />
+  <img src="./icons/firebird.svg" width="48" height="48" alt="Firebird" />
+  <img src="./icons/sql.svg" width="48" height="48" alt="SQL" />
 </p>
 
 ### Automação & IA
