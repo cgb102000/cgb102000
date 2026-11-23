@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header" alt="Cabeçalho decorativo"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+CAIO+GABRIEL;QA+ANALYST;TEST+AUTOMATION;WELCOME!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+CAIO+GABRIEL;QA+ANALYST;TEST+AUTOMATION;WELCOME!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/-Robot%20Framework-0D1117?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
-  <img src="https://img.shields.io/badge/-Playwright-0D1117?style=for-the-badge" alt="Playwright" />
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/-Kibana-0D1117?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
@@ -97,6 +97,24 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,linux,vercel" alt="Git, GitHub, VS Code, Visual Studio, Docker, Linux e Vercel" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&hide_border=true&bg_color=ffffff&title_color=ff0000&icon_color=ff0000&text_color=24292f" alt="Estatísticas do GitHub de cgb102000" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&hide_border=true&bg_color=ffffff&title_color=ff0000&text_color=24292f" alt="Linguagens mais usadas" />
+</picture>
+
+</div>
 
 ---
 
