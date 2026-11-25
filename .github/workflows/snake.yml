@@ -30,6 +30,11 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Generate contribution graph SVG
+        run: node scripts/contribution-graph.mjs ${{ github.repository_owner }} dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Publish SVG to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:

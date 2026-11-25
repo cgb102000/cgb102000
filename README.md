@@ -136,7 +136,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/39d353/cgb102000" alt="Mapa de contribuições do último ano" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cgb102000/cgb102000/output/contribution-graph-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/cgb102000/cgb102000/output/contribution-graph.svg" alt="Mapa de contribuições do último ano" />
+</picture>
 
 <br/><br/>
 
