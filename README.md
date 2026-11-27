@@ -90,6 +90,18 @@
 
 ---
 
+## 🤝 Contribuições open source
+
+| Projeto | O que fiz | Status |
+|---|---|---|
+| **[AncientBeast](https://github.com/FreezingMoon/AncientBeast)** · jogo de estratégia por turnos | Efeitos visuais, melhorias de interface, sons, controles por mouse e toque, e rótulos automáticos de PR no CI | <a href="https://github.com/pulls?q=repo%3AFreezingMoon/AncientBeast%20author%3Acgb102000%20is%3Apr%20is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3AFreezingMoon/AncientBeast%20author%3Acgb102000%20is%3Apr%20is%3Amerged&label=integrados&color=2ea44f&style=flat-square" alt="integrados" /></a> <a href="https://github.com/pulls?q=repo%3AFreezingMoon/AncientBeast%20author%3Acgb102000%20is%3Apr%20is%3Aopen"><img src="https://img.shields.io/github/issues-search?query=repo%3AFreezingMoon/AncientBeast%20author%3Acgb102000%20is%3Apr%20is%3Aopen&label=em%20an%C3%A1lise&color=ff0000&style=flat-square" alt="em análise" /></a> |
+| **[Ant Design](https://github.com/ant-design/ant-design)** · biblioteca de componentes React | Tradução pt-BR (textos de acessibilidade que faltavam e correções) e QA de PRs e bugs na versão 6, com medições publicadas nas issues | [PR em análise](https://github.com/ant-design/ant-design/pull/60002) |
+| **[Bruno](https://github.com/usebruno/bruno)** · cliente de API open source | Botão de copiar do "Generate Code" aparecendo só ao passar o mouse | [PR em análise](https://github.com/usebruno/bruno/pull/9959) |
+| **[Flowise](https://github.com/FlowiseAI/Flowise)** · construtor visual de agentes de IA | Menu lateral sincronizado com a rota ao clicar no logo | [PR em análise](https://github.com/FlowiseAI/Flowise/pull/6580) |
+| **[task_manager](https://github.com/Navashub/task_manager)** · API de tarefas | Paginação nos endpoints de tarefas e usuários | [Integrado](https://github.com/Navashub/task_manager/pull/18) |
+
+---
+
 ## 🛠️ Tech Stack
 
 ### QA & Testing
