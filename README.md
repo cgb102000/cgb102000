@@ -63,6 +63,7 @@
 | Projeto | Descrição | Links |
 |---|---|---|
 | **Teste automatizado MenuDino** | Testes E2E do fluxo de endereço por CEP, com cenários positivo e negativo, Page Object, screenshot em falha e CI no GitHub Actions. Robot Framework + Playwright. | [Repositório](https://github.com/cgb102000/teste-automatizado-menudino) |
+| **Triagem de Issues** | GitHub Action que faz o primeiro filtro de QA nas issues: pede passos para reproduzir, versão e resultado esperado x obtido quando faltam, e coloca um rótulo que sai sozinho quando a issue é completada. | [Código](https://github.com/cgb102000/triagem-issues) |
 
 ### 💻 Aplicações web
 
@@ -82,6 +83,7 @@
 
 | Projeto | Descrição | Links |
 |---|---|---|
+| **Radar de Issues** | Encontra issues livres para contribuir em open source: sem dono, sem PR vinculado, com good first issue ou help wanted, por linguagem e repositório. API de busca do GitHub. | 🌐 [Acessar](https://cgb102000.github.io/radar-issues/) · [Código](https://github.com/cgb102000/radar-issues) |
 | **Vigia de PRs** | Avisa no Telegram quando alguém comenta, revisa, aprova, integra ou fecha os meus PRs em projetos open source. Roda sozinho no GitHub Actions a cada 15 minutos, com a API do GitHub e testes com `node:test`. | [Código](https://github.com/cgb102000/vigia-prs) |
 | **Redimensionar Imagem** | Redimensiona várias imagens no navegador e converte para JPEG, PNG ou WebP. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Redimensionar%20Imagem/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Redimensionar%20Imagem) |
 | **Contador de Palavras** | Conta palavras e caracteres de um texto em tempo real. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Contador%20de%20caracteres%20e%20palavras/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Contador%20de%20caracteres%20e%20palavras) |
