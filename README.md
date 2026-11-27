@@ -12,6 +12,26 @@
 
 ---
 
+## 🌐 Meu portfólio
+
+<div align="center">
+
+<a href="https://cgb102000.github.io/Projetos-publicos/Portifolio/" target="_blank">
+  <img width="90%" src="./portfolio.png" alt="Página inicial do portfólio de Caio Gabriel: QA e desenvolvedor em São José do Rio Preto - SP" />
+</a>
+
+<br/><br/>
+
+<a href="https://cgb102000.github.io/Projetos-publicos/Portifolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Visitar%20meu%20portf%C3%B3lio-ff0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar meu portfólio" />
+</a>
+
+<sub>Apresentação, habilidades, projetos e contato em um só lugar</sub>
+
+</div>
+
+---
+
 ## 🚀 Sobre mim
 
 🧪 **Analista de QA** na Consumer: testes funcionais, de regressão, de API e mobile, com roteiro de testes e evidências por entrega no Azure DevOps
