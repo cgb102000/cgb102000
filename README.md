@@ -82,6 +82,7 @@
 
 | Projeto | Descrição | Links |
 |---|---|---|
+| **Vigia de PRs** | Avisa no Telegram quando alguém comenta, revisa, aprova, integra ou fecha os meus PRs em projetos open source. Roda sozinho no GitHub Actions a cada 15 minutos, com a API do GitHub e testes com `node:test`. | [Código](https://github.com/cgb102000/vigia-prs) |
 | **Redimensionar Imagem** | Redimensiona várias imagens no navegador e converte para JPEG, PNG ou WebP. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Redimensionar%20Imagem/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Redimensionar%20Imagem) |
 | **Contador de Palavras** | Conta palavras e caracteres de um texto em tempo real. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Contador%20de%20caracteres%20e%20palavras/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Contador%20de%20caracteres%20e%20palavras) |
 | **Audio to Text** | Transcrição de áudio com Whisper (OpenAI) rodando localmente. Python + Flask. | [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Audio%20to%20Text) |
