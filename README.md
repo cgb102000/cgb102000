@@ -118,10 +118,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&hide_border=true&bg_color=ffffff&title_color=ff0000&icon_color=ff0000&text_color=24292f" alt="Estatísticas do GitHub de cgb102000" />
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/cgb102000/cgb102000/output/metrics.svg" alt="Métricas do GitHub de cgb102000: atividade, comunidade, repositórios e calendário de contribuições" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9" />
