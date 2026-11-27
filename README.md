@@ -71,6 +71,7 @@
 | **Portfólio** | Meu site pessoal: apresentação, habilidades, projetos e contato, com menu para celular e fundo de partículas. HTML, CSS e JavaScript puro. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Portifolio/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Portifolio) |
 | **Faturô** | Sistema de gestão para pequenos negócios: caixa, mesas com QR Code, estoque, equipe com permissões, dashboard com DRE e dicas geradas por IA. React, Node.js, MongoDB. | 🌐 [Acessar](https://faturo-frontend.vercel.app/home) · Repositório privado |
 | **Ciclos** | App para acompanhar ciclos de medicamentos: calendário, doses, lembretes no Telegram e controle de estoque. PWA instalável. Node.js, PostgreSQL, Prisma. | Repositório privado |
+| **VOLT Fitness** | App de treinos com rotina semanal, execução marcando as séries de cada exercício e painel de progresso com sequência de dias e histórico. Login com Google. Lovable. | 🌐 [Acessar](https://voltfitness.lovable.app) · Repositório privado |
 | **GeekCore** | Plataforma fullstack de filmes e animes: catálogo, login, perfis, favoritos e comentários. React, Node.js, MongoDB. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/GeekCore/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/GeekCore) |
 | **GeekHub** | Catálogo que consome a API REST do GeekCore: busca, filtros e detalhes. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/GeekHub/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/GeekHub) |
 | **FarmaUnix** | Farmácia online com carrinho, taxa de entrega por distância e mapa da rota (Leaflet). | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/FarmaUnix/src/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/FarmaUnix) |
@@ -81,7 +82,8 @@
 
 | Projeto | Descrição | Links |
 |---|---|---|
-| **Redimensionar Imagem** | Redimensiona várias imagens no navegador e converte para JPEG, PNG ou WebP. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Redimensionar%20Imagem/) |
+| **Redimensionar Imagem** | Redimensiona várias imagens no navegador e converte para JPEG, PNG ou WebP. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Redimensionar%20Imagem/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Redimensionar%20Imagem) |
+| **Contador de Palavras** | Conta palavras e caracteres de um texto em tempo real. | 🌐 [Acessar](https://cgb102000.github.io/Projetos-publicos/Contador%20de%20caracteres%20e%20palavras/) · [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Contador%20de%20caracteres%20e%20palavras) |
 | **Audio to Text** | Transcrição de áudio com Whisper (OpenAI) rodando localmente. Python + Flask. | [Código](https://github.com/cgb102000/Projetos-publicos/tree/main/Audio%20to%20Text) |
 
 ➡️ Todos os projetos: [**Projetos-publicos**](https://github.com/cgb102000/Projetos-publicos)
