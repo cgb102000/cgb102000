@@ -63,7 +63,7 @@
 | Projeto | Descrição | Links |
 |---|---|---|
 | **Teste automatizado MenuDino** | Testes E2E do fluxo de endereço por CEP, com cenários positivo e negativo, Page Object, screenshot em falha e CI no GitHub Actions. Robot Framework + Playwright. | [Repositório](https://github.com/cgb102000/teste-automatizado-menudino) |
-| **Triagem de Issues** | GitHub Action que faz o primeiro filtro de QA nas issues: pede passos para reproduzir, versão e resultado esperado x obtido quando faltam, e coloca um rótulo que sai sozinho quando a issue é completada. | [Código](https://github.com/cgb102000/triagem-issues) |
+| **Triagem de Issues** | GitHub Action publicada no Marketplace que faz o primeiro filtro de QA nas issues: pede passos para reproduzir, versão e resultado esperado x obtido quando faltam, e coloca um rótulo que sai sozinho quando a issue é completada. | 🛒 [Marketplace](https://github.com/marketplace/actions/triagem-de-issues) · [Código](https://github.com/cgb102000/triagem-issues) |
 
 ### 💻 Aplicações web
 
