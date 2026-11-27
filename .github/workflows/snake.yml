@@ -47,6 +47,7 @@ jobs:
           config_timezone: America/Sao_Paulo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          config_padding: 0, 32 + 11%
 
       - name: Copy metrics to dist
         run: |

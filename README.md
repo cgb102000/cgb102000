@@ -123,8 +123,8 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&hide_border=true&bg_color=ffffff&title_color=ff0000&text_color=24292f" alt="Linguagens mais usadas" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&card_width=380&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&card_width=380&hide_border=true&bg_color=ffffff&title_color=ff0000&text_color=24292f" alt="Linguagens mais usadas" />
 </picture>
 
 </div>
