@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="360" viewBox="0 0 840 360" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="839" height="359" rx="6" fill="none" stroke="#30363d"/>
+<line x1="440" y1="24" x2="440" y2="336" stroke="#30363d"/>
+<text x="24" y="44" font-size="16" fill="#e6edf3">Activity overview</text>
+<g transform="translate(24,72)" fill="#8b949e"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></g>
+<text x="52" y="85" font-size="15"><tspan fill="#e6edf3">Contributed to </tspan><tspan fill="#4493f8" font-weight="600">cgb102000/Projetos-publicos</tspan><tspan fill="#e6edf3">,</tspan></text>
+<text x="52" y="111" font-size="15"><tspan fill="#4493f8" font-weight="600">cgb102000/cgb102000</tspan><tspan fill="#e6edf3">,</tspan></text>
+<text x="52" y="137" font-size="15"><tspan fill="#4493f8" font-weight="600">FreezingMoon/AncientBeast</tspan><tspan fill="#e6edf3"></tspan></text>
+<text x="52" y="163" font-size="15" fill="#e6edf3">and 10 other repositories</text>
+<g stroke="#26a641" stroke-width="2" stroke-linecap="round">
+<line x1="522" y1="190" x2="758" y2="190"/>
+<line x1="640" y1="72" x2="640" y2="308"/>
+</g>
+<polygon points="640.0,190.0 644.7,190.0 640.0,214.8 552.7,190.0" fill="#26a641" fill-opacity="0.6" stroke="#26a641" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="552.7" cy="190.0" r="3.5" fill="#ffffff" stroke="#26a641" stroke-width="1.5"/>
+<circle cx="644.7" cy="190.0" r="3.5" fill="#ffffff" stroke="#26a641" stroke-width="1.5"/>
+<circle cx="640.0" cy="190.0" r="3.5" fill="#ffffff" stroke="#26a641" stroke-width="1.5"/>
+<circle cx="640.0" cy="214.8" r="3.5" fill="#ffffff" stroke="#26a641" stroke-width="1.5"/>
+<text x="640" y="42" font-size="14" text-anchor="middle" fill="#8b949e">0%</text>
+<text x="640" y="60" font-size="14" text-anchor="middle" fill="#8b949e">Code review</text>
+<text x="640" y="330" font-size="14" text-anchor="middle" fill="#8b949e">21%</text>
+<text x="640" y="348" font-size="14" text-anchor="middle" fill="#8b949e">Pull requests</text>
+<text x="508" y="186" font-size="14" text-anchor="end" fill="#8b949e">74%</text>
+<text x="508" y="204" font-size="14" text-anchor="end" fill="#8b949e">Commits</text>
+<text x="772" y="186" font-size="14" text-anchor="start" fill="#8b949e">4%</text>
+<text x="772" y="204" font-size="14" text-anchor="start" fill="#8b949e">Issues</text>
+</svg>
